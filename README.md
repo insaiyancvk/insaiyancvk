@@ -1,16 +1,19 @@
-### Hi there 👋
+![Hi](assets/hi.png)
 
-<!--
-**insaiyancvk/insaiyancvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm [Vamshi](https://insaiyancvk.github.io)
+![]
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on converting mastersinnifty.com website to a Flutter app.
+- 🌱 I’m currently learning Flutter.
+- 💬 Ask me about Android
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[!Vamshi's github stats](https://github-readme-stats.vercel.app/api?username=insaiyancvk&show_icons=true&include_all_commits=true&theme=radical)
+
+[!Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=insaiyancvk&layout=compact&theme=radical)
+
+<p align='center'>
+    <a href="https://twitter.com/cvk_vamshi"><img height="30" src="assets/twitter.png"></a>
+    <a href="https://instagram.com/in.saiyan.cvk"><img height="30" src="asstes/instagram.png"></a>
+    <a href="https://t.me/insaiyancvk"><img height="30" src="assets/telegram.jpg"></a>
+    <a href="https://insaiyancvk.github.io"><img height="30" src="assets/blog.png"></a>
+</p>
