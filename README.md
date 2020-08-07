@@ -2,6 +2,7 @@
 <br>
 ### Hi there, I'm [Vamshi](https://insaiyancvk.github.io)
 <p align='left'>
+    <a href="mailto:cvamshik1@gmail.com"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/gmail.png"></a>
     <a href="https://twitter.com/cvk_vamshi"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/twitter.png"></a>&nbsp;&nbsp;
     <a href="https://instagram.com/in.saiyan.cvk"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/instagram.png"></a>&nbsp;&nbsp;
     <a href="https://t.me/insaiyancvk"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/telegram.jpg"></a>&nbsp;&nbsp;
