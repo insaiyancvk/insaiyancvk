@@ -1,11 +1,11 @@
-![Hi](https://github.com/insaiyancvk/insaiyancvk/tree/master/assets/hi.png&raw=true)
+![Hi](https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/hi.png)
 <br>
 ### Hi there, I'm [Vamshi](https://insaiyancvk.github.io)
 <p align='left'>
-    <a href="https://twitter.com/cvk_vamshi"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/tree/master/assets/twitter.png&raw=true"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/in.saiyan.cvk"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/tree/master/assets/instagram.png&raw=true"></a>&nbsp;&nbsp;
-    <a href="https://t.me/insaiyancvk"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/tree/master/assets/telegram.jpg&raw=true"></a>&nbsp;&nbsp;
-    <a href="https://insaiyancvk.github.io"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/tree/master/assets/blog.png&raw=true"></a>
+    <a href="https://twitter.com/cvk_vamshi"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/twitter.png"></a>&nbsp;&nbsp;
+    <a href="https://instagram.com/in.saiyan.cvk"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/instagram.png"></a>&nbsp;&nbsp;
+    <a href="https://t.me/insaiyancvk"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/telegram.jpg"></a>&nbsp;&nbsp;
+    <a href="https://insaiyancvk.github.io"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/blog.png"></a>
 </p>
 
 - 🔭 I’m currently working on converting mastersinnifty.com website to a Flutter app.
