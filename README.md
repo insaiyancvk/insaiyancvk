@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working on converting mastersinnifty.com website to a Flutter app.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently doing CTFs.
 - 💬 Ask me about Android
 <br>
 <a>
