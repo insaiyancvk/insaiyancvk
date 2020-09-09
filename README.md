@@ -9,8 +9,8 @@
     <a href="https://insaiyancvk.github.io"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/blog.png"></a>
 </p>
 
-- 🔭 I’m currently working on converting mastersinnifty.com website to a Flutter app.
-- 🌱 I’m currently doing CTFs.
+- 🔭 I’m currently working on converting mastersinnifty.com website to a Flutter app.<
+- 🌱 I’m currently doing a project based on flutter.
 - 💬 Ask me about Android
 <br>
 <a>
