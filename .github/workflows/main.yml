@@ -1,21 +1,23 @@
-name: Update GitHub Profile README
+name: Metrics
 on:
-  push:
-  schedule:
-    - cron: "*/10 * * * *" 
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-    - name: GitHub metrics as SVG image
-      uses: lowlighter/metrics@v3.8
+    - uses: lowlighter/metrics@v3.8
       with:
+        token: ${{ secrets.METRICS_TOKEN }}
         # Metrics base content
         base: header, activity, community, repositories, metadata # optional, default is header, activity, community, repositories, metadata
         # Number of repositories to use
         repositories: 100 # optional, default is 100
         # GitHub Personal Token
-        token: ${{ secrets.GITHUB_TOKEN }}
+        # token: ${{ secrets.GITHUB_TOKEN }}
         # GitHub username
         user: insaiyancvk # optional, default is 
         # GitHub repository
