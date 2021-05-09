@@ -26,8 +26,6 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_topics: yes
           plugin_topics_limit: 0
-          plugin_topics_mode: mastered
-          plugin_notable: yes
           config_order: base.header, isocalendar, languages, notable, topics
 
       - name: 🦑 Personal metrics (anilist)
@@ -39,45 +37,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: watching, characters
+          plugin_anilist_sections: watching, favorites, characters
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
           plugin_anilist_shuffle: true
-
-      - name: ⏰ WakaTime plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugins_errors_fatal: ${{ github.repository == 'insaiyancvk/insaiyancvk' }}
-
-      - name: 🎼 Music plugin (playlist)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.music.playlist.svg
-          token: NOT_NEEDED
-          plugin_music: yes
-          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
-          plugin_music_limit: 28
-          plugins_errors_fatal: ${{ github.repository == 'insaiyancvk/insaiyancvk' }}
-          output_action: pull-request
-
-      - name: 🎼 Music plugin (recent)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.music.recent.svg
-          token: NOT_NEEDED
-          plugin_music: yes
-          plugin_music_provider: spotify
-          plugin_music_played_at: yes
-          plugin_music_mode: recent
-          plugin_music_token: ${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-          plugin_music_limit: 2
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
-          output_action: pull-request
