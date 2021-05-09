@@ -1,23 +1,19 @@
-<p align="center">
-  <img width="700" height="500" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/hi.png">
-</p>
-<br>
-<p align="center">
-    <H1> Hi there, I'm Vamshi </H1>
-</p>
-<p align="center">
-    <a href="mailto:cvamshik1@gmail.com"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/gmail.png"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/cvk_vamshi"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/twitter.png"></a>&nbsp;&nbsp;
-    <a href="https://t.me/insaiyancvk"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/telegram.jpg"></a>&nbsp;&nbsp;
-    <a href="https://insaiyancvk.github.io"><img height="30" src="https://github.com/insaiyancvk/insaiyancvk/blob/master/assets/blog.png"></a>
-<p align="center">
-   🔭 As of now, I'm trying to teach computers to see <br>
-   💬 Ask me about Android, Linux, Python, Flutter <br>
-   🔎 How to reach me: I live on the internet <a href="https://google.com/search?q=insaiyancvk">@insaiyancvk</a> <br>
-</p>
-<br>
-<a align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=insaiyancvk&show_icons=true&include_all_commits=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=insaiyancvk&layout=compact&theme=radical" />
-</a>
-</p>
+## Hey, I'm Ryan! 👋
+
+Currently a student in Singapore, passionate about creating all-things-tech to improve society.
+
+---
+
+| [insaiyancvk/insaiyancvk](https://github.com/insaiyancvk/insaiyancvk) | [insaiyancvk/pymusicdl](https://github.com/insaiyancvk/pymusicdl) | [insaiyancvk/TwitterStalker](https://github.com/insaiyancvk/TwitterStalker) |
+| :-: | :-: | :-: |
+| <a href="https://github.com/insaiyancvk/insaiyancvk"><img src="https://github.com/insaiyancvk/insaiyancvk/raw/main/DISPLAY.jpg" alt="insaiyancvk/insaiyancvk" title="insaiyancvk/insaiyancvk" width="200" height="200"></a> | <a href="https://github.com/insaiyancvk/pymusicdl"><img src="https://github.com/insaiyancvk/insaiyancvk/raw/main/DISPLAY.jpg" alt="insaiyancvk/pymusicdl" title="insaiyancvk/pymusicdl" width="200" height="200"></a> | <a href="https://github.com/insaiyancvk/TwitterStalker"><img src="https://github.com/insaiyancvk/insaiyancvk/raw/main/DISPLAY.jpg" alt="insaiyancvk/TwitterStalker" title="insaiyancvk/TwitterStalker" width="200" height="200"></a> |
+
+| [insaiyancvk/music_downloader](https://github.com/insaiyancvk/music_downloader) | [insaiyancvk/DSA-project](https://github.com/insaiyancvk/DSA-project) | [insaiyancvk/youtubedl](https://github.com/insaiyancvk/youtubedl) |
+| :-: | :-: | :-: |
+| <a href="https://github.com/insaiyancvk/music_downloader"><img src="https://github.com/insaiyancvk/insaiyancvk/raw/main/DISPLAY.jpg" alt="insaiyancvk/music_downloader" title="insaiyancvk/music_downloader" width="200" height="200"></a> | <a href="https://github.com/insaiyancvk/DSA-project"><img src="https://github.com/insaiyancvk/insaiyancvk/raw/main/DISPLAY.jpg" alt="insaiyancvk/DSA-project" title="insaiyancvk/DSA-project" width="200" height="200"></a> | <a href="https://github.com/insaiyancvk/youtubedl"><img src="https://github.com/insaiyancvk/insaiyancvk/raw/main/DISPLAY.jpg" alt="insaiyancvk/youtubedl" title="insaiyancvk/youtubedl" width="200" height="200"></a> |
+
+
+
+---
+
+**Learn more about me at [ryanthe.com](https://www.ryanthe.com)!**
