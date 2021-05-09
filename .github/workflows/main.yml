@@ -79,5 +79,5 @@ jobs:
           plugin_music_mode: recent
           plugin_music_token: ${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
           plugin_music_limit: 2
-          plugins_errors_fatal: ${{ github.repository == 'lowlighter/lowlighter' }}
+          plugins_errors_fatal: ${{ github.repository == 'insaiyancvk/insaiyancvk' }}
           output_action: pull-request
