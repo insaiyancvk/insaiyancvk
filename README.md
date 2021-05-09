@@ -1,6 +1,4 @@
-## Hey, I'm Ryan! 👋
-
-Currently a student in Singapore, passionate about creating all-things-tech to improve society.
+## Hey, I'm Vamshi! 👋
 
 ---
 
@@ -15,5 +13,3 @@ Currently a student in Singapore, passionate about creating all-things-tech to i
 
 
 ---
-
-**Learn more about me at [ryanthe.com](https://www.ryanthe.com)!**
