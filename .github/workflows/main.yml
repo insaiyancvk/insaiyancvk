@@ -25,8 +25,10 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, ejs
           plugin_languages_details: bytes-size, percentage
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 12
+          plugin_topics_mode: mastered
           config_order: base.header, isocalendar, languages, notable, topics
+          
 
       - name: 🦑 Personal metrics (anilist)
         if: ${{ success() || failure() }}
@@ -50,7 +52,6 @@ jobs:
           token: NOT_NEEDED
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }} # ${{ secrets.WAKATIME_TOKEN }}
-          use_mocked_data: yes                # ⚠️ Using mocked data because I don't really use WakaTime
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          use_mocked_data: yes
           plugins_errors_fatal: ${{ github.repository == 'insaiyancvk/insaiyancvk' }}
-          output_action: pull-request
