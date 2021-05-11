@@ -38,7 +38,7 @@ jobs:
           plugin_anilist: yes
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: watching, favorites, characters
-          plugin_anilist_limit: 2
+          plugin_anilist_limit: 3
           plugin_anilist_limit_characters: 22
           plugin_anilist_shuffle: true
 
