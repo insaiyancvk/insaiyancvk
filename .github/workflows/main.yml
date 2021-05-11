@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 0-23/4 * * *"
+    - cron: "0 0-23/6 * * *"
   push:
     branches:
       - master
@@ -41,3 +41,16 @@ jobs:
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
           plugin_anilist_shuffle: true
+
+      - name: ⏰ WakaTime plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }} # ${{ secrets.WAKATIME_TOKEN }}
+          use_mocked_data: yes                # ⚠️ Using mocked data because I don't really use WakaTime
+          plugins_errors_fatal: ${{ github.repository == 'insaiyancvk/insaiyancvk' }}
+          output_action: pull-request
