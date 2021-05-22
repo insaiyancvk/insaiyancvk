@@ -2,7 +2,6 @@
 [<img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.personal.anilist.svg">](https://anilist.co/user/insaiyancvk/)
 <br>
 [<img align="left" alt="🦑" src="https://spotify-github-profile.vercel.app/api/view?uid=1rvrfppkw84gzdqxgft71ibj2&cover_image=true&theme=default">](https://open.spotify.com/user/1rvrfppkw84gzdqxgft71ibj2)
-[<img align="right" alt="🦑" src="https://spotify-recently-played-readme.vercel.app/api?user=1rvrfppkw84gzdqxgft71ibj2&count=7&width=300">](https://open.spotify.com/user/1rvrfppkw84gzdqxgft71ibj2)
 </br>
 [![vamshi's wakatime stats](https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.wakatime.svg)](https://wakatime.com/@insaiyancvk)
 <br>
