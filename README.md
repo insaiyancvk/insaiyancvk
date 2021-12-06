@@ -25,10 +25,12 @@
 <img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.musicdl.svg" href="https://github.com/insaiyancvk/pymusicdl">
 <img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.speedy.svg" href="https://github.com/insaiyancvk/speedyblackman">
 </p>
+<br>
 <p>
 <img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.dere.svg" href="https://github.com/insaiyancvk/Dere-Net">
 <img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.aniclas.svg" href="https://github.com/insaiyancvk/AnimeClassifier">
 </p>
+<br>
 <p>
 <img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.dlock.svg" href="https://github.com/insaiyancvk/datalocker">
 <img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.twistalk.svg" href="https://github.com/insaiyancvk/TwitterStalker">
