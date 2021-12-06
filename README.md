@@ -22,19 +22,20 @@
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:insaiyancvk?theme=rule34">](https://youtu.be/6FP0sHNBSmA)
 <br>
 <p>
-<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.musicdl.svg" href="https://github.com/insaiyancvk/pymusicdl">
-
-<img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.speedy.svg" href="https://github.com/insaiyancvk/speedyblackman">
+<a href="https://github.com/insaiyancvk/pymusicdl"><img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.musicdl.svg"></a>
+<a href="https://github.com/insaiyancvk/speedyblackman"><img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.speedy.svg"></a>
 </p>
-<br>
-<p>
-<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.dere.svg" href="https://github.com/insaiyancvk/Dere-Net">
 
-<img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.aniclas.svg" href="https://github.com/insaiyancvk/AnimeClassifier">
+[<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">]()
+
+<p>
+<a href="https://github.com/insaiyancvk/Dere-Net"><img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.dere.svg"></a>
+<a href="https://github.com/insaiyancvk/AnimeClassifier"><img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.aniclas.svg"></a>
 </p>
-<br>
-<p>
-<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.dlock.svg" href="https://github.com/insaiyancvk/datalocker">
 
-<img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.twistalk.svg" href="https://github.com/insaiyancvk/TwitterStalker">
+[<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">]()
+
+<p>
+<a href="https://github.com/insaiyancvk/datalocker"><img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.dlock.svg"></a>
+<a href="https://github.com/insaiyancvk/TwitterStalker"><img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.twistalk.svg"></a>
 </p>
