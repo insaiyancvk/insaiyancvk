@@ -46,7 +46,7 @@ jobs:
 
       - name: ⏰ WakaTime plugin
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.wakatime.svg
           token: NOT_NEEDED
@@ -55,3 +55,12 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           use_mocked_data: yes
           plugins_errors_fatal: ${{ github.repository == 'insaiyancvk/insaiyancvk' }}
+          
+      - name: Repositories
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.repos.svg
+          plugin_repositories: yes
+          plugin_repositories_featured: insaiyancvk/pymusicdl, insaiyancvk/speedyblackman, insaiyancvk/Dere-Net, insaiyancvk/AnimeClassifier, insaiyancvk/datalocker, insaiyancvk/TwitterStalker
+        
