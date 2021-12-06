@@ -60,59 +60,58 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.musicdl.svg
-          plugin_repositories: no
+          base: ""
+          plugin_repositories: yes
           plugin_repositories_featured: insaiyancvk/pymusicdl
 
       - name: speedyblackman
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.speedy.svg
-          plugin_repositories: no
+          base: ""
+          plugin_repositories: yes
           plugin_repositories_featured: insaiyancvk/speedyblackman
 
       - name: animeclassifier
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.aniclas.svg
-          plugin_repositories: no
+          base: ""
+          plugin_repositories: yes
           plugin_repositories_featured: insaiyancvk/AnimeClassifier
           
       - name: datalocker
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.dlock.svg
-          plugin_repositories: no
+          base: ""
+          plugin_repositories: yes
           plugin_repositories_featured: insaiyancvk/datalocker
 
       - name: derenet
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.dere.svg
-          plugin_repositories: no
+          base: ""
+          plugin_repositories: yes
           plugin_repositories_featured: insaiyancvk/Dere-Net
           
-
       - name: TwitterStalker
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.twistalk.svg
-          plugin_repositories: no
+          base: ""
+          plugin_repositories: yes
           plugin_repositories_featured: insaiyancvk/TwitterStalker
