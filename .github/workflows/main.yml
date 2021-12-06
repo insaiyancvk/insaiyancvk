@@ -60,6 +60,8 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.plugin.repos.svg
           plugin_repositories: yes
           plugin_repositories_featured: insaiyancvk/pymusicdl, insaiyancvk/speedyblackman, insaiyancvk/Dere-Net, insaiyancvk/AnimeClassifier, insaiyancvk/datalocker, insaiyancvk/TwitterStalker
