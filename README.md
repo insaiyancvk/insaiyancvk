@@ -16,11 +16,9 @@
 ---
 ## Consistency is the key ✨
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=insaiyancvk&theme=tokyonight_duo)](https://git.io/streak-stats)
-
 ![Vamshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=insaiyancvk&theme=react-dark&hide_border=true&custom_title=Vamshi%27s%20contribution%20graph)
-
 </br>
 [<img src="https://data.typeracer.com/misc/badge?user=insaiyancvk" border="0" alt="TypeRacer.com scorecard for user insaiyancvk">](https://data.typeracer.com/pit/profile?user=insaiyancvk)
 <br>
-[<img align="right" width="400" alt="🦑" src="https://count.getloli.com/get/@insaiyancvk?theme=gelbooru-h4">](https://youtu.be/6FP0sHNBSmA)
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:insaiyancvk?theme=rule34">](https://youtu.be/6FP0sHNBSmA)
 <br>
