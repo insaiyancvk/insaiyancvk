@@ -19,6 +19,17 @@
 ![Vamshi's github activity graph](https://activity-graph.herokuapp.com/graph?username=insaiyancvk&theme=react-dark&hide_border=true&custom_title=Vamshi%27s%20contribution%20graph)
 </br>
 [<img src="https://data.typeracer.com/misc/badge?user=insaiyancvk" border="0" alt="TypeRacer.com scorecard for user insaiyancvk">](https://data.typeracer.com/pit/profile?user=insaiyancvk)
-<br>
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:insaiyancvk?theme=rule34">](https://youtu.be/6FP0sHNBSmA)
 <br>
+<p>
+<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.musicdl.svg" href="https://github.com/insaiyancvk/pymusicdl">
+<img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.speedy.svg" href="https://github.com/insaiyancvk/speedyblackman">
+</p>
+<p>
+<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.dere.svg" href="https://github.com/insaiyancvk/Dere-Net">
+<img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.aniclas.svg" href="https://github.com/insaiyancvk/AnimeClassifier">
+</p>
+<p>
+<img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.dlock.svg" href="https://github.com/insaiyancvk/datalocker">
+<img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.twistalk.svg" href="https://github.com/insaiyancvk/TwitterStalker">
+</p>
