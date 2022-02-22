@@ -22,20 +22,20 @@
 [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:insaiyancvk?theme=rule34">](https://youtu.be/6FP0sHNBSmA)
 <br>
 <p>
+<a href="https://github.com/insaiyancvk/stegos_grayfia"><img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.grayfia.svg"></a>
 <a href="https://github.com/insaiyancvk/pymusicdl"><img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.musicdl.svg"></a>
+</p>
+
+[<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">]()
+
+<p>
 <a href="https://github.com/insaiyancvk/speedyblackman"><img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.speedy.svg"></a>
-</p>
-
-[<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">]()
-
-<p>
 <a href="https://github.com/insaiyancvk/Dere-Net"><img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.dere.svg"></a>
-<a href="https://github.com/insaiyancvk/AnimeClassifier"><img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.aniclas.svg"></a>
 </p>
 
 [<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png">]()
 
 <p>
+<a href="https://github.com/insaiyancvk/AnimeClassifier"><img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.aniclas.svg"></a>
 <a href="https://github.com/insaiyancvk/datalocker"><img align="left" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.dlock.svg"></a>
-<a href="https://github.com/insaiyancvk/TwitterStalker"><img align="right" width="400" alt="🦑" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.twistalk.svg"></a>
 </p>

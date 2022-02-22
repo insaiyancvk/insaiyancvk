@@ -56,6 +56,16 @@ jobs:
           use_mocked_data: yes
           plugins_errors_fatal: ${{ github.repository == 'insaiyancvk/insaiyancvk' }}
           
+      - name: StegosGrayfia
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.plugin.grayfia.svg
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: insaiyancvk/stegos_grayfia
+
       - name: musicdl
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
@@ -105,13 +115,3 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_featured: insaiyancvk/Dere-Net
-          
-      - name: TwitterStalker
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.plugin.twistalk.svg
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_featured: insaiyancvk/TwitterStalker
