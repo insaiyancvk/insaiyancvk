@@ -12,6 +12,8 @@
 
 ---
 ## Consistency is the key ✨
+[![wakatime](https://wakatime.com/badge/user/60098788-b96c-4d03-ae37-813ad2ad022c.svg)](https://wakatime.com/@60098788-b96c-4d03-ae37-813ad2ad022c)
+</br>
 [![vamshi's wakatime stats](https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.plugin.wakatime.svg)](https://wakatime.com/@insaiyancvk)
 </br>
 [<img src="https://data.typeracer.com/misc/badge?user=insaiyancvk" border="0" alt="TypeRacer.com scorecard for user insaiyancvk">](https://data.typeracer.com/pit/profile?user=insaiyancvk)
