@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1117,14 +1117,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.7285905406594" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="447.7285905406594" y="0" width="6.926639005370893" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="454.65522954603034" y="0" width="3.5453968243087766" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.2006263703391" y="0" width="1.1671428214922568" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.36776919183137" y="0" width="0.4882550167930394" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="459.85602420862443" y="0" width="0.07154448178203061" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="459.9275686904065" y="0" width="0.03929491803138976" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="459.96686360843785" y="0" width="0.033136391562203646" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.679638250677" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="447.679638250677" y="0" width="6.924285831449159" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="454.6039240821262" y="0" width="3.5973135860007366" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.2012376681269" y="0" width="1.166746310276883" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.3679839784038" y="0" width="0.48808914284294863" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="459.85607312124677" y="0" width="0.07152017611103448" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.9275932973578" y="0" width="0.03928156844347324" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="459.9668748658013" y="0" width="0.03312513419879492" height="8" fill="#438eff"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1137,7 +1137,7 @@
                             </div>
                             <small>
                                 <div>63.6 MB</div>
-                                <div>97.33%</div>
+                                <div>97.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1148,8 +1148,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>503 kB</div>
-                                <div>0.77%</div>
+                                <div>511 kB</div>
+                                <div>0.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
