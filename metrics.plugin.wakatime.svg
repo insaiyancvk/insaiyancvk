@@ -61,18 +61,18 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">zoho-dublin</span>
-                                <div class="bar" style="width: 45.152%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">56%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">psStuff</span>
-                                <div class="bar" style="width: 27.864%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">35%</span>
+                                <div class="bar" style="width: 59.576%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">74%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">avd</span>
-                                <div class="bar" style="width: 6.984%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">9%</span>
+                                <div class="bar" style="width: 11.28%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">psStuff</span>
+                                <div class="bar" style="width: 9.144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                         </div>
                     </section>
@@ -81,13 +81,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 64.248%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">80%</span>
+                                <div class="bar" style="width: 50.488%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">63%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">INI</span>
-                                <div class="bar" style="width: 15.752000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 20.784000000000002%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">26%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Python</span>
+                                <div class="bar" style="width: 6.648000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">ArangoDB Query Language</span>
+                                <div class="bar" style="width: 2.08%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                         </div>
                     </section>
