@@ -28,30 +28,3 @@ jobs:
           plugin_topics_limit: 12
           plugin_topics_mode: mastered
           config_order: base.header, isocalendar, languages, notable, topics
-          
-
-      - name: 🦑 Personal metrics (anilist)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.personal.anilist.svg
-          token: NOT_NEEDED
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_anilist: yes
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: watching, characters
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_shuffle: true
-
-      - name: ⏰ WakaTime plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          use_mocked_data: yes
-          plugins_errors_fatal: ${{ github.repository == 'insaiyancvk/insaiyancvk' }}
