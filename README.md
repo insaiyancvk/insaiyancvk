@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" alt="GitHub activity, languages and topics" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.svg">
+  <img width="480" alt="GitHub activity, languages and topics" src="https://raw.githubusercontent.com/insaiyancvk/insaiyancvk/master/metrics.svg">
 </p>
